@@ -12,7 +12,7 @@
    ```bash
    npx devvit login
    ```
-3. Upload/register the app (one time):
+3. Upload/register the app (one time): 
    ```bash
    npx devvit upload
    ```
