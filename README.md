@@ -5,7 +5,7 @@
 ## Quick Start  
  
 1. Install deps:  
-   ```bash
+   ```bash 
    npm install
    ``` 
 2. Login to Devvit (one time):
