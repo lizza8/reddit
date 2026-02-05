@@ -3,7 +3,7 @@
 3D bird battle royale web game for Reddit Devvit. Mobile-first controls, daily seeded arena, and leaderboard.       
    
 ## Quick Start   
- 
+  
 1. Install deps:  
    ```bash  
    npm install
