@@ -4,7 +4,7 @@
 
 ## Quick Start 
 
-1. Install deps:
+1. Install deps: 
    ```bash
    npm install
    ```
