@@ -1,5 +1,5 @@
 # BirdBlitz Royale (Devvit)
-
+ 
 3D bird battle royale web game for Reddit Devvit. Mobile-first controls, daily seeded arena, and leaderboard.  
 
 ## Quick Start 
