@@ -20,7 +20,7 @@
    ```bash
    npx devvit playtest
    ```
-5. Open your playtest subreddit (created by Devvit) and open the post:
+5. Open your playtest subreddit (created by Devvit) and open the post: 
    - Title: `BirdBlitz Royale – YYYY-MM-DD`
    - Menu: Subreddit menu -> `Play BirdBlitz Royale`
 
