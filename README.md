@@ -14,7 +14,7 @@
    ``` 
 3. Upload/register the app (one time): 
    ```bash
-   npx devvit upload
+   npx devvit upload 
    ``` 
 4. Start playtest:
    ```bash
