@@ -1,0 +1,24 @@
+{
+  "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
+  "name": "frontgamepage",
+  "post": {
+    "dir": "web",
+    "entrypoints": {
+      "default": {
+        "entry": "index.html",
+        "height": "tall",
+        "inline": true
+      }
+    }
+  },
+  "blocks": {
+    "entry": "src/main.tsx"
+  },
+  "permissions": {
+    "reddit": true,
+    "redis": true
+  },
+  "dev": {
+    "subreddit": "frontgamepage_dev"
+  }
+}
