@@ -8,7 +8,7 @@
    ```bash     
    npm install 
    ``` 
-2. Login to Devvit (one time):
+2. Login to Devvit (one time): 
    ```bash  
    npx devvit login
    ```  
