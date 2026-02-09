@@ -9,7 +9,7 @@
    npm install
    ``` 
 2. Login to Devvit (one time):
-   ```bash
+   ```bash 
    npx devvit login
    ``` 
 3. Upload/register the app (one time): 
