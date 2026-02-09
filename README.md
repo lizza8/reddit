@@ -6,7 +6,7 @@
   
 1. Install deps:  
    ```bash     
-   npm install
+   npm install 
    ``` 
 2. Login to Devvit (one time):
    ```bash 
